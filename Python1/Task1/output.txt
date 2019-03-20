@@ -1,3 +1,0 @@
-C count: 511
-G count: 507
-GC count: 131
